@@ -70,6 +70,9 @@ main {
 .open {
   display: block;
 }
+.close{
+  display: none;
+}
 
 .searchable-list {
   margin: 2rem 0;
